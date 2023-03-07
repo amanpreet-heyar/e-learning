@@ -4,7 +4,8 @@ import aboutimage from "../components/aboutimage.png";
 import email from "../components/email.png";
 import phone from "../components/phone.png";
 import location from "../components/location.png";
-//hello
+//git config --global user.email "you@example.com"
+// git config --global user.name "Your Name"
 const About = () => {
   return (
     <div className="cotainer-fluid">
