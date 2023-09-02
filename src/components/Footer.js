@@ -12,8 +12,8 @@ function Footer() {
             </div>
             <div>
                 <a href=""  style={{ marginLeft: '.5rem' }} ><FaFacebook/></a>
-                <a href=""  style={{ marginLeft: '.5rem'  }} ><FaInstagram/></a>
-                <a href=""  style={{ marginLeft: '.5rem' }} ><FaLinkedin/></a>
+                <a href="https://www.instagram.com/ama.npreet28/"  style={{ marginLeft: '.5rem'  }} ><FaInstagram/></a>
+                <a href="https://www.linkedin.com/in/amanpreet-kaur-728255251/"  style={{ marginLeft: '.5rem' }} ><FaLinkedin/></a>
                 <a href=""  style={{ marginLeft: '.5rem' }} ><FaTwitter/></a>
             </div>
 
@@ -22,7 +22,7 @@ function Footer() {
             <div className='row' >
                 <div className='col-sm-4'>
                     <h5>About US</h5>
-                    <p>DPGI is providing FMGE (MCI) coaching from past five years all across the country. Keeping abreast of the latest technological advances, we have implemented the usage of the sophisticated tools such as LCD projectors</p>
+                    <p>E-learning is providing FMGE (MCI) coaching from past five years all across the country. Keeping abreast of the latest technological advances, we have implemented the usage of the sophisticated tools such as LCD projectors</p>
                 </div>
 
                 <div className='col-sm-2'>
@@ -38,14 +38,14 @@ function Footer() {
                     <p>Project Management</p>
                     <p>Design and Planning</p>
                     <p>Business Intelligence</p>
-                    <p><a href="#">Resources</a></p>
+                    <p><a href="/services">Resources</a></p>
                 </div>
 
                 <div className='col-sm-2'>
                     <h5>Address</h5>
                     <p>patiala</p>
-                    <p>punjabi university, patiala</p>
-                    <p>+9814312955</p>
+                    <p>India</p>
+                    <p>+6283720360</p>
                     
                 </div>
 

@@ -61,10 +61,10 @@ const About = () => {
     <div class="container" padding="20px">
   <form action="https://formspree.io/f/mpzerbwz" method="POST">
 
-    <label for="fname">First Name</label>
+    <label for="fname"></label>
     <input type="text" id="fname" name="firstname" placeholder="Your name.." required/>
 
-    <label for="email">E mail</label>
+    <label for="email"></label>
     <input type="email" id="email" name="email" placeholder="Your E mail.." required/>
 
   {/*   <label for="country">Country</label>
@@ -74,7 +74,7 @@ const About = () => {
       <option value="usa">USA</option>
     </select> */}
 
-    <label for="message">Message</label>
+    <label for="message"></label>
     <textarea id="Message" name="message" placeholder="Write something.." height="200px" required></textarea>
 
     <input type="submit" value="Submit"/>

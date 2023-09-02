@@ -23,25 +23,25 @@ function Services() {
 
 <div className='row'>
   <div className='col-md-4'>
-    <Link to="/"><img className='image-resize' src={node}></img></Link>
+    <Link to="https://www.youtube.com/watch?v=8u1o-OmOeGQ&ab_channel=Simplilearn"><img className='image-resize' src={node}></img></Link>
   </div>
   <div className='col-md-4'>
-    <Link to="/"><img className='image-resize' src={android}></img></Link>
+    <Link to="https://www.youtube.com/watch?v=iqI6MAsi1Xg&ab_channel=Simplilearn"><img className='image-resize' src={android}></img></Link>
   </div>
   <div className='col-md-4'>
-    <Link to="/"><img className='image-resize' src={reactjs}></img></Link>
+    <Link to="https://www.youtube.com/watch?v=Y6aYx_KKM7A&ab_channel=Simplilearn"><img className='image-resize' src={reactjs}></img></Link>
   </div>
 </div>
 
 <div className='row'>
   <div className='col-md-4'>
-    <Link to="/"><img className='image-resize' src={python}></img></Link>
+    <Link to="https://www.youtube.com/watch?v=XIR20HH8mNY&ab_channel=GateSmashers"><img className='image-resize' src={python}></img></Link>
   </div>
   <div className='col-md-4'>
-    <Link to="/"><img className='image-resize' src={java}></img></Link>
+    <Link to="https://www.youtube.com/watch?v=Ae-r8hsbPUo&ab_channel=Simplilearn"><img className='image-resize' src={java}></img></Link>
   </div>
   <div className='col-md-4'>
-    <Link to="/"><img className='image-resize' src={iot}></img></Link>
+    <Link to="https://www.youtube.com/watch?v=h0gWfVCSGQQ&ab_channel=edureka%21"><img className='image-resize' src={iot}></img></Link>
   </div>
 </div>
     </div>
